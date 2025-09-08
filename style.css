@@ -1,0 +1,185 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #D70000;
+    margin-top: 75px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.anime-h1{
+    color:white;
+    margin-right: 140px;
+    font-size: 40px;
+
+}
+
+a{
+    text-decoration: none;
+    margin-left: 60px;
+    color:white;
+}
+
+.main-p{
+    color: white;
+    font-weight: 600;
+}
+
+.name1{
+    display: flex;
+    justify-content: center;
+    margin-top: 76px;
+}
+
+.name1-div{
+    margin-left: 50px;
+}
+
+.name1-h1{
+    color:#D70000;
+    font-size: 64px;
+}
+
+
+.name1-p{
+    color: black;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+
+.name1-a1{
+    background-color:#FF0000;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 1px 1px 4px 1px #575757;
+    color: white;
+    font-weight: 600;
+    border-radius: 15px;
+    
+   
+}
+
+.name1-a2{
+    border: 2px solid #FF0000;
+     padding: 13px;
+    padding-left: 33px;
+    padding-right: 33px;
+    box-shadow: 1px 1px 4px 1px #575757;
+    color: #FF0000;
+    border-radius: 15px;
+}
+
+.name-div2{
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.name2-h1, .name3-h1{
+    text-align: center;
+    color:#FF0000;
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+.name2-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.name2 img {
+    margin-left: 50px;
+}
+
+.name2-div1{
+    margin-left: 75px;
+}
+
+.name2-h2{
+    margin-top: 75px;
+    color: black;
+    font-size: 32px;
+    font-style: bold;
+}
+
+.name2 a{
+    position: relative;
+    top: 40px;
+    left: -63px;
+    background-color: #D70000;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 1px 1px 4px 1px #575757;
+    color: white;
+    font-weight: 600;
+    
+}
+
+.name3-img{
+    width: 100%;
+    height: 100%;
+}
+
+.name3-p{
+    position: relative;
+    top:-360px;
+    left: 50px;
+    color: white;
+    font-weight: 600;
+}
+
+.footer-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    background-color: #D70000;
+}
+
+
+.footer-div1{
+    margin-right: 500px;
+}
+
+
+.footer-p{
+    color: white;
+    font-size: 16px;
+}
+
+.footer-h1{
+    font-size: 50px;
+    color: white;
+}
+
+
+.name03{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.name03-p{
+    margin-left: 50px;
+}
